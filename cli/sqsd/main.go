@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go/service/sqs"
-	sqsd "github.com/slank/go-sqsd"
+	sqsd "github.com/rising3/go-sqsd"
 )
 
 type Config struct {
